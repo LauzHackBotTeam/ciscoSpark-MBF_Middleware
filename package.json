@@ -1,0 +1,19 @@
+{
+  "name": "spark-to-microsoft-bot-framework",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mongodb": "^2.2.33",
+    "request": "^2.83.0",
+    "request-promise": "^4.2.2",
+    "restify": "^6.3.2"
+  },
+  "devDependencies": {}
+}
